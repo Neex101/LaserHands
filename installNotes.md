@@ -2,7 +2,7 @@
 
 LaserHands setup notes
 
-For: RasPi3
+For: RasPi3 + touchscreen
 
 Use KivyPie distro
 
